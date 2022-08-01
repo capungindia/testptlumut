@@ -76,7 +76,7 @@
                                 </button>
 
                                 <button type="reset" class="btn btn-danger" 
-                                    onclick="location.href = '{{ route('post.index') }}';">
+                                    onclick="location.href = '{{ route('account.index') }}';">
                                     {{ __('Cancel') }}
                                 </button>
                             </div>
